@@ -17,7 +17,7 @@ It simulates core ATM functionalities such as deposit, withdrawal, balance inqui
 
 ## 🖼️ Demo  
 🎥 *Watch the video demo here*.  
-
+https://lnkd.in/p/d7U23Z7T
 
 ---
 
