@@ -1,4 +1,4 @@
-# 🏦 ATM-System-CodSoft  
+# 🏦 ATM-System
 
 A **Java Swing-based ATM System** with a modern **FlatLaf GUI** and **MySQL database integration**.  
 It simulates core ATM functionalities such as deposit, withdrawal, balance inquiry, and transaction history with multi-user support.  
